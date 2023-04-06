@@ -1,4 +1,5 @@
 # Zachary Riffle (he/him/his)
 ### About Myself
-#### Hey! I'm Zach, and I'm an FY23 Aspire and recent graduate of the University of Minnesota (Go Gophs) with a Bachelor of Science in Management Information Systems. Recently I relocated to beautiful Seattle, WA and began my journey specializing in security. 
-#### Outside of work, I am a proud born-and-raised Minnesotan and passionate Minnesota sports fan (for better or worse).
+#### I'm Zach, and I'm a Cloud Solution Architect specializing in security within Microsoft's Global Partner Solutions (GPSUS). I am currently responsible for delivering security-aligned technical training and resources designed to aid partners in skilling and architectural guidance. 
+
+#### Outside of the workplace, I am a passionate Minnesota sports fan.
