@@ -1,3 +1,3 @@
 # Zachary Riffle (he/him/his)
 ### About Myself
-#### I'm Zach, and I'm a Cloud Solution Architect specializing in security within Microsoft's Global Partner Solutions.
+#### Just another security person. Passions include security (SIEM/XDR), AI/ML, geopolitics, Minnesota sports, and Clash Royale.
